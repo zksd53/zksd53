@@ -1,4 +1,4 @@
-🐚 Currently Learning
+##🐚 Currently Learning
 Machine Learning & AI Concepts
 Full-Stack Web Development
 French
