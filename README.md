@@ -1,5 +1,5 @@
 ## 🎸 About Me
-Currently a Sophomore @ UniverSity of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.I am passionate about Full Stack Development, AI/ML, Dolphins.🚀 Fun Fact: I sometimes play Squash.
+Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.I am passionate about Full Stack Development, AI/ML, Dolphins.🚀 Fun Fact: I sometimes play Squash.
 
 Let's connect @ zakisaud2023@gmail.com
 
