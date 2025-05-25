@@ -1,3 +1,6 @@
+## 🎸 About Me
+Currently a Sophomore @ UniverSity of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.I am passionate about Full Stack Development, AI/ML, Dolphins.🚀 Fun Fact: I sometimes play Squash.
+
 #🐚 Currently Learning
 * ML/AI Concepts
 * Full-Stack Web Development
