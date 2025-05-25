@@ -1,4 +1,4 @@
-##🐚 Currently Learning
+#🐚 Currently Learning
 * ML/AI Concepts
 * Full-Stack Web Development
 * French and How to Play Piano?
