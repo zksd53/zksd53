@@ -5,7 +5,7 @@ Let's connect @ zakisaud2023@gmail.com
 
 ## 🐚 Currently Learning
 * ML/AI Concepts
-* Full-Stack Web Development
+* Full-Stack Web Development & Mobile Development
 * French and How to Play Piano?
 
 ## 🚀 Tools & Technologies I Use
