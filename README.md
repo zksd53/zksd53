@@ -1,7 +1,7 @@
 ## 🎸 About Me
 Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.I am passionate about Full Stack Development, AI/ML, Dolphins (yes, the fish).🚀 Fun Fact: I sometimes play Squash.
 
-Let's connect @ zakisaud2023@gmail.com
+Let's connect @ saudz@myumanitoba.ca
 
 ## 🐚 Currently Learning
 * ML/AI Concepts
