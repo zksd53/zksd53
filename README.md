@@ -3,6 +3,9 @@ Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with 
 
 Let's connect [at] saudz@myumanitoba.ca
 
+## 💻 Exp.
+swe @ gradFinder | fall '25
+
 ## 🐚 Currently Learning
 * ML/AI Concepts
 * Full-Stack Web Development & Mobile Development
