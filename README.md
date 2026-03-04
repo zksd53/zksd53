@@ -45,6 +45,10 @@ Users can visualize their spending, detect recurring subscriptions, and receive 
  
 Check it out @: https://www.spendivo.com/
 
+
+### STYLE-SLACK
+
+
 ### VAXSHEILD
 <img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
 
@@ -67,7 +71,7 @@ The platform allows users to store, track, and verify vaccination history in one
 
  FRONTEND -  R React.js, TailWindCSS, ReactBits
 
- BACKEND - Node.js + Express.js,
+ BACKEND - Node.js + Express.js
 
  DATABASE - SupaBase
 
@@ -76,6 +80,40 @@ The platform allows users to store, track, and verify vaccination history in one
  SECURITY - JWT Authentication, Secure data encryption
                                                                                        
  Check it out @: https://vaxshield.netlify.app/
+
+### WayLuma
+<img width="1466" height="833" alt="image" src="https://github.com/user-attachments/assets/788b7d42-7301-4b27-9988-a1341453f961" />
+
+## What is WayLuma
+
+WayLuma is a platform designed to simplify and automate the university application process for students.
+
+Applying to multiple universities often requires students to repeatedly enter the same personal information, academic details, and supporting documents across different application portals. WayLuma streamlines this process by allowing users to input their information once and automatically populate application forms across supported university portals.
+
+The platform aims to reduce repetitive work, minimize errors, and help students manage applications more efficiently.
+
+## Features
+
+• Centralized Application Profile  
+• Automated Form Filling  
+• Multi-University Application Support  
+• Application Progress Tracking  
+• Document Management  
+• User-friendly Dashboard
+
+## Tech Stack
+
+FRONEND - React.js, TailwindCSS
+
+BROWSER EXTENSION - JavaScript, Chrome Extension APIs
+
+BACKEND - Node.js + Express.js
+
+DATABASE - Firebase 
+
+CI/CD - Github Actions, Vercel Deployment
+
+Check it out @: WayLuma.ca
 
 
 
