@@ -43,14 +43,41 @@ Users can visualize their spending, detect recurring subscriptions, and receive 
  BACKEND - Node.js + Express.js, Flinks API , OpenAPI
  CI/CD - Github Actions, Vercel Deployment
  
-
-
-
 Check it out @: https://www.spendivo.com/
-                                                                                                              
+
+### VAXSHEILD
+<img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
+
+## What exactly it is 
+
+VaxShield is a digital platform designed to help individuals and healthcare providers securely manage vaccination records.
+
+The platform allows users to store, track, and verify vaccination history in one centralized system. By digitizing immunization records, VaxShield reduces paperwork, improves accessibility, and ensures users can quickly access verified vaccination data when required.
+
+## Features
+
+• Secure Digital Vaccination Records  
+• Vaccination History Tracking  
+• Immunization Reminders  
+• Record Verification System  
+• User-friendly Dashboard  
+• Secure Data Storage
+
+## Teck Stack
+
+ FRONTEND -  R React.js, TailWindCSS, ReactBits
+
+ BACKEND - Node.js + Express.js,
+
+ DATABASE - SupaBase
+
+ CI/CD - Github Actions, Vercel Deployment
+
+ SECURITY - JWT Authentication, Secure data encryption
+                                                                                       
+ Check it out @: https://vaxshield.netlify.app/
 
 
-https://vaxshield.netlify.app/
 
 
 
