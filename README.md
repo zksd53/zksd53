@@ -21,7 +21,6 @@ incoming @mitacs , swe @ zylenix | fall '25
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fe136126-6134-4eb8-af43-3fe4828cc62b" width="280" height="550" style="object-fit:cover"/>
   <img src="https://github.com/user-attachments/assets/cd81af43-7fbd-412c-921f-7951e6c0b76b" width="280" height="550" style="object-fit:cover"/>
-  <img src="https://github.com/user-attachments/assets/06677636-9dd2-4e9d-be16-e3ee5d4100a3" width="280" height="550" style="object-fit:cover"/>
 </div>
 
 ## What is Style_Slack
