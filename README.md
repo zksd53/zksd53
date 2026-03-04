@@ -18,8 +18,7 @@ incoming @mitacs , swe @ zylenix | fall '25
  ###  SPENDIVO
 
  <img width="1463" height="836" alt="image" src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" />
- <img width="1300" height="538" alt="image" src="https://github.com/user-attachments/assets/bc43b68b-bb80-44f1-a411-82c71e8b5f82" />
- <img width="1163" height="655" alt="image" src="https://github.com/user-attachments/assets/833c81bd-2318-4ad8-bb42-144a2adaa38e" />
+
 
  ## What exactly it is
 
