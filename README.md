@@ -18,9 +18,37 @@ incoming @mitacs , swe @ zylenix | fall '25
  ###  SPENDIVO
 
  <img width="1463" height="836" alt="image" src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" />
+ <img width="1300" height="538" alt="image" src="https://github.com/user-attachments/assets/bc43b68b-bb80-44f1-a411-82c71e8b5f82" />
+ <img width="1163" height="655" alt="image" src="https://github.com/user-attachments/assets/833c81bd-2318-4ad8-bb42-144a2adaa38e" />
 
+ ## What exactly it is
+
+Spendivo is a modern personal expense management platform designed to help users track their spending, scan receipts with AI, and gain insights into their financial habits.
+
+The goal of Spendivo is to simplify financial awareness by combining receipt scanning, automatic expense categorization, and bank synchronization in a clean and intuitive interface.
+
+Users can visualize their spending, detect recurring subscriptions, and receive AI-driven insights to optimize their monthly finances.
+
+## Features
+
+• AI Receipt Scanning  
+• Automatic Expense Categorization  
+• Secure Bank Integration  
+• Smart Financial Insights  
+• Subscription Detection  
+• Interactive Spending Dashboard
+
+ ## Tech Stack
+ 
+ FRONTEND - React.js, TailWindCSS, ReactBits
+ BACKEND - Node.js + Express.js, Flinks API , OpenAPI
+ CI/CD - Github Actions, Vercel Deployment
+ 
+
+
+
+Check it out @: https://www.spendivo.com/
                                                                                                               
-https://www.spendivo.com/
 
 
 https://vaxshield.netlify.app/
