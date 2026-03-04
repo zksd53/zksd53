@@ -1,29 +1,74 @@
-##  About Me
-Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.I am passionate about Full Stack Development, AI/ML, Dolphins (yes, the fish).🚀 Fun Fact: I sometimes play Squash.
+## About Me
+Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with Minor in Economics and Mathematics.  
+I am passionate about Full Stack Development, AI/ML, Dolphins (yes, the fish).
 
-Let's connect [at] saudz@myumanitoba.ca
+🚀 Fun Fact: I sometimes play Squash.
 
-##  Experience
+Let's connect: saudz@myumanitoba.ca
+
+---
+
+## Experience
 incoming @mitacs , swe @ zylenix | fall '25
 
-##  Currently Learning
+---
+
+## Currently Learning
 * ML/AI Concepts
 * Full-Stack Web Development & Mobile Development
 * French and How to Play Piano?
 
-##  Tools & Technologies I Use
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)   [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+---
+
+## Tools & Technologies I Use
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
+
+---
+
+
+
+
+
 ## My Projects
 
+<table>
+<tr>
 
-### STYLE_SLACK
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fe136126-6134-4eb8-af43-3fe4828cc62b" width="280" height="550" style="object-fit:cover"/>
-  <img src="https://github.com/user-attachments/assets/cd81af43-7fbd-412c-921f-7951e6c0b76b" width="280" height="550" style="object-fit:cover"/>
+### 1. STYLESLACK
+
+<div align="center" style="height:260px; display:flex; align-items:center; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/fe136126-6134-4eb8-af43-3fe4828cc62b" width="200" height="400" style="object-fit:cover; margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/cd81af43-7fbd-412c-921f-7951e6c0b76b" width="200" height="400" style="object-fit:cover;"/>
 </div>
 
-## What is Style_Slack
+<details>
+<summary>Project Details</summary>
+
+## What is StyleSlack
 
 StyleStack is a wardrobe management and outfit planning application that helps users organize their clothing digitally and create outfit combinations easily.
 
@@ -31,26 +76,42 @@ The app allows users to upload their clothing items, browse them visually, and m
 
 ## Features
 
-• Digital wardrobe management
-• Clothing item categorization
-• Outfit builder (mix and match clothing)
-• Visual outfit preview
-• Save favorite outfits
-• Simple and clean mobile UI
+• Digital wardrobe management  
+• Clothing item categorization  
+• Outfit builder (mix and match clothing)  
+• Visual outfit preview  
+• Save favorite outfits  
+• Simple and clean mobile UI  
 
 ## Tech Stack
 
-FRONTEND - SwiftUI
-FRAMEWORKS - iOS UIKit integration. SwiftUI components
-CI/CD - Github Actions
-DEVELOPMENT TOOLS - Xcode, Apple swift ecosystem
+FRONTEND - SwiftUI  
+FRAMEWORKS - iOS UIKit integration, SwiftUI components  
+CI/CD - Github Actions  
+DEVELOPMENT TOOLS - Xcode, Apple swift ecosystem  
 
- ###  SPENDIVO
+</details>
 
- <img width="1463" height="836" alt="image" src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" />
+</td>
 
+<td width="50%" valign="top">
 
- ## What is Spendivo
+### 2. SPENDIVO
+
+<div align="center" style="height:320px; display:flex; align-items:center; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" width="450"/>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<details>
+<summary>Project Details</summary>
+
+## What is Spendivo
 
 Spendivo is a modern personal expense management platform designed to help users track their spending, scan receipts with AI, and gain insights into their financial habits.
 
@@ -65,19 +126,34 @@ Users can visualize their spending, detect recurring subscriptions, and receive 
 • Secure Bank Integration  
 • Smart Financial Insights  
 • Subscription Detection  
-• Interactive Spending Dashboard
+• Interactive Spending Dashboard  
 
- ## Tech Stack
- 
- FRONTEND - React.js, TailWindCSS, ReactBits
- BACKEND - Node.js + Express.js, Flinks API , OpenAPI
- CI/CD - Github Actions, Vercel Deployment
- 
+## Tech Stack
+
+FRONTEND - React.js, TailWindCSS, ReactBits  
+BACKEND - Node.js + Express.js, Flinks API , OpenAPI  
+CI/CD - Github Actions, Vercel Deployment  
+
 Check it out @: https://www.spendivo.com/
 
-### VAXSHEILD
+</details>
 
-<img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 3. VAXSHEILD
+
+<div align="center" style="height:260px; display:flex; align-items:center; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" width="450"/>
+</div>
+
+<details>
+<summary>Project Details</summary>
 
 ## What is VaxSheild
 
@@ -92,24 +168,32 @@ The platform allows users to store, track, and verify vaccination history in one
 • Immunization Reminders  
 • Record Verification System  
 • User-friendly Dashboard  
-• Secure Data Storage
+• Secure Data Storage  
 
 ## Tech Stack
 
- FRONTEND -  R React.js, TailWindCSS, ReactBits
+FRONTEND - React.js, TailWindCSS, ReactBits  
+BACKEND - Node.js + Express.js  
+DATABASE - SupaBase  
+CI/CD - Github Actions, Vercel Deployment  
+SECURITY - JWT Authentication, Secure data encryption  
 
- BACKEND - Node.js + Express.js
+Check it out @: https://vaxshield.netlify.app/
 
- DATABASE - SupaBase
+</details>
 
- CI/CD - Github Actions, Vercel Deployment
+</td>
 
- SECURITY - JWT Authentication, Secure data encryption
-                                                                                       
- Check it out @: https://vaxshield.netlify.app/
+<td width="50%" valign="top">
 
-### WayLuma
-<img width="1466" height="833" alt="image" src="https://github.com/user-attachments/assets/788b7d42-7301-4b27-9988-a1341453f961" />
+### 4. WayLuma
+
+<div align="center" style="height:260px; display:flex; align-items:center; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/788b7d42-7301-4b27-9988-a1341453f961" width="450"/>
+</div>
+
+<details>
+<summary>Project Details</summary>
 
 ## What is WayLuma
 
@@ -126,28 +210,21 @@ The platform aims to reduce repetitive work, minimize errors, and help students 
 • Multi-University Application Support  
 • Application Progress Tracking  
 • Document Management  
-• User-friendly Dashboard
+• User-friendly Dashboard  
 
 ## Tech Stack
 
-FRONEND - React.js, TailwindCSS
-
-BROWSER EXTENSION - JavaScript, Chrome Extension APIs
-
-BACKEND - Node.js + Express.js
-
-DATABASE - Firebase 
-
-CI/CD - Github Actions, Vercel Deployment
+FRONEND - React.js, TailwindCSS  
+BROWSER EXTENSION - JavaScript, Chrome Extension APIs  
+BACKEND - Node.js + Express.js  
+DATABASE - Firebase  
+CI/CD - Github Actions, Vercel Deployment  
 
 Check it out @: https://wayluma.ca/
 
+</details>
 
+</td>
 
-
-
-
-<!---
-zksd53/zksd53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</tr>
+</table>
