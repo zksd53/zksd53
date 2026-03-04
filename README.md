@@ -3,7 +3,7 @@ Currently a Sophomore @ University of Manitoba majoring in Comp. Sci along with 
 
 Let's connect [at] saudz@myumanitoba.ca
 
-##  Exp.
+##  Experience
 incoming @mitacs , swe @ zylenix | fall '25
 
 ##  Currently Learning
