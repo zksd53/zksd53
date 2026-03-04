@@ -45,8 +45,8 @@ Users can visualize their spending, detect recurring subscriptions, and receive 
  
 Check it out @: https://www.spendivo.com/
 
-
 ### VAXSHEILD
+
 <img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
 
 ## What exactly it is 
@@ -64,7 +64,7 @@ The platform allows users to store, track, and verify vaccination history in one
 • User-friendly Dashboard  
 • Secure Data Storage
 
-## Teck Stack
+## Tech Stack
 
  FRONTEND -  R React.js, TailWindCSS, ReactBits
 
