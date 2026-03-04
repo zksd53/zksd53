@@ -20,7 +20,7 @@ incoming @mitacs , swe @ zylenix | fall '25
  <img width="1463" height="836" alt="image" src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" />
 
 
- ## What exactly it is
+ ## What is Spendivo
 
 Spendivo is a modern personal expense management platform designed to help users track their spending, scan receipts with AI, and gain insights into their financial habits.
 
@@ -49,7 +49,7 @@ Check it out @: https://www.spendivo.com/
 
 <img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
 
-## What exactly it is 
+## What is VaxSheild
 
 VaxShield is a digital platform designed to help individuals and healthcare providers securely manage vaccination records.
 
