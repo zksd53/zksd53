@@ -46,9 +46,6 @@ Users can visualize their spending, detect recurring subscriptions, and receive 
 Check it out @: https://www.spendivo.com/
 
 
-### STYLE-SLACK
-
-
 ### VAXSHEILD
 <img width="1177" height="667" alt="image" src="https://github.com/user-attachments/assets/15b06cc7-5884-4221-b11a-739eb74955a5" />
 
@@ -113,7 +110,7 @@ DATABASE - Firebase
 
 CI/CD - Github Actions, Vercel Deployment
 
-Check it out @: WayLuma.ca
+Check it out @: https://wayluma.ca/
 
 
 
