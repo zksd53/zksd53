@@ -16,6 +16,9 @@ incoming @mitacs , swe @ zylenix | fall '25
 ## My Projects
 
  ###  SPENDIVO
+
+ <img width="1463" height="836" alt="image" src="https://github.com/user-attachments/assets/2cf1b540-27be-48cf-b524-e0b1856ddb07" />
+
                                                                                                               
 https://www.spendivo.com/
 
