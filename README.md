@@ -61,8 +61,8 @@ incoming @mitacs , swe @ zylenix | fall '25
 ### 1. STYLESLACK
 
 <div align="center" style="height:260px; display:flex; align-items:center; justify-content:center;">
-  <img src="https://github.com/user-attachments/assets/fe136126-6134-4eb8-af43-3fe4828cc62b" width="200" height="400" style="object-fit:cover; margin-right:10px;"/>
-  <img src="https://github.com/user-attachments/assets/cd81af43-7fbd-412c-921f-7951e6c0b76b" width="200" height="400" style="object-fit:cover;"/>
+  <img src="https://github.com/user-attachments/assets/fe136126-6134-4eb8-af43-3fe4828cc62b" width="200" height="200" style="object-fit:cover; margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/cd81af43-7fbd-412c-921f-7951e6c0b76b" width="200" height="200" style="object-fit:cover;"/>
 </div>
 
 <details>
