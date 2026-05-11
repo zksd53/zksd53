@@ -9,7 +9,7 @@ Let's connect: saudz@myumanitoba.ca
 ---
 
 ## Experience
-incoming @mitacs , swe @ zylenix | fall '25
+bsi @mitacs , swe @ zylenix | fall '25
 
 ---
 
